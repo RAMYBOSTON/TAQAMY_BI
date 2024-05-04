@@ -1,8 +1,6 @@
 # TAQAMY BI Analyst Application
 
-Project Definition: AI Business Analyst Application
-
-## 1. Project Overview##
+## 1. Project Overview
 
 This project aims to develop an AI-powered application that assists Business Analysts (BAs) in their daily tasks. 
 
