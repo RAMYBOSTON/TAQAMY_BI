@@ -95,6 +95,6 @@ This project definition provides a starting point for developing an AI Business 
 
 ## Additional Considerations:
 
-> Security: Implement appropriate security measures to restrict access to sensitive data within the Power BI reports.
-> Scalability: Consider the scalability of your Power BI application as the volume and complexity of your data grows.
-> Collaboration: Encourage collaboration by allowing users to share insights and feedback on the reports.
+- > Security: Implement appropriate security measures to restrict access to sensitive data within the Power BI reports.
+- > Scalability: Consider the scalability of your Power BI application as the volume and complexity of your data grows.
+- > Collaboration: Encourage collaboration by allowing users to share insights and feedback on the reports.
