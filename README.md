@@ -4,7 +4,9 @@ Project Definition: AI Business Analyst Application
 
 ## 1. Project Overview##
 
-This project aims to develop an AI-powered application that assists Business Analysts (BAs) in their daily tasks. The application will leverage machine learning and other AI techniques to automate repetitive processes, improve data analysis capabilities, and provide BAs with intelligent decision-making support.
+This project aims to develop an AI-powered application that assists Business Analysts (BAs) in their daily tasks. 
+
+The application will leverage machine learning and other AI techniques to automate repetitive processes, improve data analysis capabilities, and provide BAs with intelligent decision-making support.
 
 ## 2. Project Goals
 
