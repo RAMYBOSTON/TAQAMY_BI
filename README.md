@@ -1,4 +1,4 @@
-*TAQAMY BI Analyst Application
+**TAQAMY BI Analyst Application
 
 Project Definition: AI Business Analyst Application
 
