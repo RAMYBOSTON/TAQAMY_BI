@@ -8,16 +8,18 @@ This project aims to develop an AI-powered application that assists Business Ana
 
 ##2. Project Goals
 
-Increase BA productivity: Automate data collection, cleaning, and analysis tasks.
-Enhance data-driven decision making: Provide AI-powered insights and recommendations based on real-time and historical data.
-Improve stakeholder communication: Generate clear and concise reports and visualizations of business processes and findings.
-Identify business process optimization opportunities: Leverage AI to uncover patterns and inefficiencies in workflows.
-Reduce human error: Mitigate the risk of errors in data analysis and reporting.
+- Increase BA productivity: Automate data collection, cleaning, and analysis tasks.
+- Enhance data-driven decision making: Provide AI-powered insights and recommendations based on real-time and historical data.
+- Improve stakeholder communication: Generate clear and concise reports and visualizations of business processes and findings.
+- Identify business process optimization opportunities: Leverage AI to uncover patterns and inefficiencies in workflows.
+- Reduce human error: Mitigate the risk of errors in data analysis and reporting.
+
 ##3. Target Users
 
-Business Analysts of all experience levels
-Business process owners
-Project managers
+- Business Analysts of all experience levels
+- Business process owners
+- Project managers
+
 ##4. Functionality
 
 Data Integration: Connect with various data sources (internal databases, external applications) to gather relevant business information.
@@ -27,6 +29,8 @@ Process Mapping and Analysis: Identify key business processes and analyze their 
 Predictive Analytics: Leverage machine learning to predict future trends and identify potential risks or opportunities.
 Intelligent Recommendations: Provide BAs with context-aware suggestions for process improvements and decision-making.
 Natural Language Processing: Enable users to interact with the application through natural language queries.
+
+
 ##5. Project Deliverables
 
 A fully functional AI Business Analyst application
